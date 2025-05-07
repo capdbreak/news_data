@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+psycopg2-binary
+feedparser
+googlenewsdecoder
+newspaper3k
+python-dateutil
+tqdm
+pandas_market_calendars
+pyarrow
+lxml_html_clean

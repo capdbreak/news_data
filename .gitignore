@@ -1,0 +1,17 @@
+google-news-url-decoder/
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+.venv
+.ignore
+.env
+
+.vscode/
+dist/
+build/
+
+*.egg-info/
+
+test.py
