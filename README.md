@@ -15,5 +15,6 @@ python -m pip install .
 
 
 
+
     description : 
 1년치 데이터에 대해 크롤링하는데 종목별 시간이 오래 걸려서 parquet파일로 데이터를 우선 불러온 후 최신 데이터는 get_news_googleRSS.py를 이용해 자동으로 가져오도록 구축할 예정 ( 크롤링 주기, 종목 선택 등등 최종 조건이 정해질 경우 )
